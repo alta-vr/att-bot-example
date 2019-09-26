@@ -10,4 +10,5 @@ To get this repo working, simply :
 
 ## Example uses
 Discord commands for querying player locations - works by cacheing user movements
+
 https://github.com/Narmdo/att-discord-tracker
